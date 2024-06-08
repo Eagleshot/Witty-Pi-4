@@ -150,7 +150,7 @@ if [ $ERR -eq 0 ]; then
 fi
 
 # install UUGear Web Interface
-curl https://www.uugear.com/repo/UWI/installUWI.sh | bash
+# curl https://www.uugear.com/repo/UWI/installUWI.sh | bash
 
 echo
 if [ $ERR -eq 0 ]; then
